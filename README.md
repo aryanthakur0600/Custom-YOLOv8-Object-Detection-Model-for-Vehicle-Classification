@@ -6,12 +6,6 @@ Dataset size: 3000 images
 Each class: 500 images
 Format: YOLO (txt)
 Train/Valid split: 70%(2100 images) : 30 (900 images)
-Classes:
-Car
-Threewheel
-Bus
-Truck
-Motorbike
-Van
+Classes:Car, Threewheel, Bus, Truck, Motorbike, Van
 
 
