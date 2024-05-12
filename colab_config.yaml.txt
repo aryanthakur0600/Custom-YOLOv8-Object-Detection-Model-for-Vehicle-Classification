@@ -1,0 +1,12 @@
+path: '/content/gdrive/My Drive/vehicle dataset' #dataset root dir
+train: train/images  # train images (relative to 'path')
+val: val/images  # val images (relative to 'path')
+
+# Classes
+names:
+  0: car
+  1: threewheel
+  2:bus
+  3:truck
+  4:motorbike
+  5:van
